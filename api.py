@@ -26,6 +26,12 @@ books = [{
         "bookDescription": "The overwhelming majority of a software system's lifespan is spent in use, not in design or implementation. So, why does conventional wisdom insist that software engineers focus primarily on the design and development of large-scale computing systems?",
         "bookAuthors" : "Betsy Beyer, Chris Jones, Jennifer Petoff"
     },
+    {
+        "bookTitle": "Is Ellie the Queen of DevOps?" ,
+        "bookImage": "https://itbook.store/img/books/9781491929124.png",
+        "bookDescription": "Changing this, committing it.. and REMEMBERING TO UPDATE THE VERSION IN DEVOPS-UPSKILL-GITOPS... to 1.1?",
+        "bookAuthors" : "Jelly Fudge"
+    },
 ]
 
 # Schema For the Book Request JSON
